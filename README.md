@@ -26,7 +26,7 @@ Projeto-ML/
 <br>
 ├── ProjetoAM_Parte2.ipynb   # Notebook completo com análise e modelagem
 <br>
-├── movies_metadata.zip      # Dataset utilizado
+├── movies_metadata.tar.gz     # Dataset utilizado
 <br>
 └── README.md                # Este documento
 
@@ -177,7 +177,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 git clone https://github.com/Angelo-Andrade/Projeto-de-Introdu-o-a-Aprendizado-de-M-quina/
 ```
 
-Depois descompacte a pasta do dataset e a mantenha no mesmo diretório que o notebook.
+Depois descompacte a pasta do dataset (movies_dataset.tar.gz) e a mantenha no mesmo diretório que o notebook.
 
 2. Abra o notebook:
 
