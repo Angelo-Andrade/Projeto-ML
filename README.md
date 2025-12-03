@@ -26,7 +26,7 @@ Projeto-ML/
 <br>
 ├── ProjetoAM_Parte2.ipynb   # Notebook completo com análise e modelagem
 <br>
-├── movies_metadata.csv      # Dataset utilizado
+├── movies_metadata.zip      # Dataset utilizado
 <br>
 └── README.md                # Este documento
 
