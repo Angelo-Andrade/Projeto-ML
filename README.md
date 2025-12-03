@@ -177,13 +177,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 git clone https://github.com/Angelo-Andrade/Projeto-de-Introdu-o-a-Aprendizado-de-M-quina/
 ```
 
+Depois descompacte a pasta do dataset e a mantenha no mesmo diretório que o notebook.
+
 2. Abra o notebook:
 
 ```bash
 jupyter notebook ProjetoAM_Parte2.ipynb
 ```
 
-3. Execute todas as células na ordem.
+3. Execute todas as células na ordem, pulando a etapa de download de dados (segundo código no tópico 1.7).
 
 ### **Dataset**
 
